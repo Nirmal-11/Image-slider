@@ -38,25 +38,25 @@
   transition: all ease-in-out;
 }
 .slide:first-child {
-  background: url("./img/guitar01-big.jpg") no-repeat;
+  background: url("/img/guitar01-big.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   height: 90vh;
 }
 .slide:nth-child(2) {
-  background: url("./img/guitar02-big.jpg") no-repeat;
+  background: url("/img/guitar02-big.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   height: 90vh;
 }
 .slide:nth-child(3) {
-  background: url("./img/pexels-pixabay-36762.jpg") no-repeat;
+  background: url("/img/pexels-pixabay-36762.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   height: 90vh;
 }
 .slide:nth-child(4) {
-  background: url("./img/pexels-pixabay-53957.jpg") no-repeat;
+  background: url("/img/pexels-pixabay-53957.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   height: 90vh;
